@@ -59,7 +59,7 @@ LANGUAGE_DATA = {
         "tts_lang": "ta"
     },
     "Telugu": {
-        "welcome": "🌾 కృషిమిత్రా కు స్వాగతం!",
+        "welcome": "🌾 కృషిమిత్రాకు స్వాగతం!",
         "fertilizer": "🌱 ఎరువు సిఫార్సు",
         "loan": "🏦 రుణం/సబ్సిడీ తనిఖీ",
         "weather_alert": "🌦️ వాతావరణ హెచ్చరికలు",
